@@ -1,5 +1,5 @@
 {
-  "name": "application-name",
+  "name": "app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,5 +9,15 @@
     "express": "3.4.4",
     "jade": "*",
     "less-middleware": "*"
-  }
+  },
+  "gitHead": "922f5c56b60b00675a624a1de3976cbcc3ef879e",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmadden85/node-server.git"
+  },
+  "author": "Joe Madden",
+  "license": "BSD"
 }
